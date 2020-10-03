@@ -31,4 +31,4 @@ Anda Terlalu Cerdas!
 
 ## Pengumpulan Link Jawaban
 
-[Web Pengumpulan](https://www.logic.plug-in.web.id/)
+[Web Pengumpulan](https://logic.plug-in.web.id/)
