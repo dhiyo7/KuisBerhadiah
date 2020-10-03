@@ -35,3 +35,6 @@ Anda Terlalu Cerdas!
 
 
 ## Pengumpulan Link Jawaban
+Nama: adesug
+https://Kuis1Level1.adesug.repl.co
+https://Kuis1Level2.adesug.repl.co
