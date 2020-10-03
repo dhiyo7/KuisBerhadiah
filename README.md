@@ -23,3 +23,5 @@
 
 
 ### Daftar Kuis
+
+1. Soal 1
