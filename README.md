@@ -12,9 +12,9 @@
 
 1. Daftar & Login pada website [Repl.it ](https://repl.it/)
 
-2. Klik My Repl & Buat Folder Baru
+2. Klik My Repl & Buat Folder Baru (Sesuaikan Nama Soal)
 
-3. Klik tombol + pojok kanan atas dan create new repl, pilih dan sesuaikan bahasa pemrogramannya
+3. Klik tombol + pojok kanan atas dan create new repl, pilih dan sesuaikan bahasa pemrogramannya beri nama sesuai level soal (Jawaban 1 soal 1 fle repl)
 
 4. Mulai selesaikan kuis nya.
 
