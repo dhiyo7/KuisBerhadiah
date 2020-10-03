@@ -20,8 +20,8 @@
 
 5. Klik share dan copy link public nya di halaman pengumpulan
 
-
-
 ### Daftar Kuis
 
-1. Soal 1
+1. [Soal ke 1](https://github.com/dhiyo7/KuisBerhadiah/blob/main/Soal1.md)
+
+2. 
