@@ -36,19 +36,19 @@ Anda Terlalu Cerdas!
 
 ## Pengumpulan Link Jawaban
 
-| Nama   | Link Level 1         | Link Level 2         |
-| ------ | -------------------- | -------------------- |
-| contoh | link repl.it tugas 1 | link repl.it tugas 2 |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
-|        |                      |                      |
+| Nama  | Link Level 1                                                | Link Level 2                                                |
+| ----- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| Felix | [Link Level 1](https://repl.it/join/vbqaezzw-felixyunianto) | [Link Level 2](https://repl.it/join/phazoxbz-felixyunianto) |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
+|       |                                                             |                                                             |
