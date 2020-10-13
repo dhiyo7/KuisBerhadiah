@@ -24,4 +24,4 @@
 
 1. [Soal ke 1](https://github.com/dhiyo7/KuisBerhadiah/blob/main/Soal1.md)
 
-2. 
+2. [Soal ke 2](https://github.com/dhiyo7/KuisBerhadiah/blob/main/Soal2.md)
